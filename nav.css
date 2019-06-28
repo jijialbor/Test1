@@ -2,7 +2,7 @@ body{
   margin:0;
   padding: 0;
   background-repeat: none;
-  background-image: url(background.jpg);
+  background-image: url('background.jpg');
   width: 100%;
   position: absolute;
 
